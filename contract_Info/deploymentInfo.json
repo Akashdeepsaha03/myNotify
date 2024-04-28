@@ -1,0 +1,25 @@
+{
+  "anvil": {
+    "Governor": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+    "OrcNation": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+    "OrcToken": "",
+    "PaymentSplitter": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+    "Pricefeed": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "Raffle": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+    "VRF": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+  },
+  "mumbai": {
+    "Governor": "0xe8AccDaEBd43EAb3264FbdeDFe54B0174cFf2846",
+    "OrcNation": "0x222d72bcb445ABAa1F7749C9fEdb4DAD5496eb78",
+    "OrcToken": "",
+    "PaymentSplitter": "0xcB72b738639aB7C988FA139cAEa7d465bCAaA680",
+    "Pricefeed": "0xd0D5e3DB44DE05E9F294BB0a3bEEaF030DE24Ada",
+    "Raffle": "0x7a4548281fBEd893080240E0CdCbB41B5957cbe3",
+    "VRF": "0x7a1BaC17Ccc5b313516C5E16fb24f7659aA5ebed"
+  },
+  "zkSepolia": {
+    "Governor": "0xfcAe58B6924cba92E87EE37C30108d567ADED372",
+    "OrcToken": "0x02aDF13FF59749C02c18ffe02ff0072C63dF7a4e"
+  },
+  "polygon": {}
+}
